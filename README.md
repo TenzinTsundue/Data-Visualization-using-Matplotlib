@@ -9,10 +9,10 @@ video link:
 https://www.youtube.com/watch?v=yZTBMMdPOww
 
 <strong>Things to follow:</strong><br>
-    <tt>pd.read_csv()<br>
-    plt.plot()<br>
-    plot.xlabel, plt.ylabel<br>
-    plt.xticks, plt.yticks<br>
-    plt.legend()<br>
-    plt.title()<br>
-    plt.show()</tt>
+    <tt>pd.read_csv(), 
+    plt.plot(),  
+    plot.xlabel, plt.ylabel, 
+    plt.xticks, plt.yticks, 
+    plt.legend(), 
+    plt.title(), 
+    plt.show()
