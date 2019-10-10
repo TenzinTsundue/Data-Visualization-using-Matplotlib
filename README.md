@@ -2,7 +2,7 @@
 Matplotlib tutorial for data visualizatin
 
 <strong>Installation:<br></strong>
-   <tt> !pip install matplotlib # in jupyter notebook<br></tt>
+   <tt> !pip install matplotlib # in jupyter notebook<br>
    <tt> conda install -c conda-forge matplotlib # in cmd using conda<br></tt>
 
 video link:
